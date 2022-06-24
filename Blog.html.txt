@@ -3,7 +3,6 @@
 	<tilte> Prueba de git </title>
 	</head>
 	<body>
-		<a>Pruebita</a>
-		<a> Cabezea</a>
+		<a>Pruebita Cabezera Hola Gente de iutu</a>
 	</body>
 </html>
