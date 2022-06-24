@@ -4,5 +4,6 @@
 	</head>
 	<body>
 		<a>Pruebita</a>
+		<a>Main</a>
 	</body>
 </html>
