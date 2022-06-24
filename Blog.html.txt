@@ -3,7 +3,7 @@
 	<tilte> Prueba de git </title>
 	</head>
 	<body>
-		<a>Pruebita</a>
+		
 		<a>Main</a>
 	</body>
 	<body>
