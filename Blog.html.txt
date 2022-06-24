@@ -6,4 +6,8 @@
 		<a>Pruebita</a>
 		<a>Main</a>
 	</body>
+	<body>
+		<a>Pruebita2</a>
+		<a>Main uwu</a>
+	</body>
 </html>
